@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/820752455578550303/898907095611633664/kisspng-software-developer-computer-software-web-developme-web-amp-mobile-app-analytics-platform-for.png">
+<img src="https://www.pikpng.com/pngvi/ioRxoJx_developer-png-png-download-computer-engineering-cartoon-clipart/">
 
 <h1>
     Hello there, Im Nowack <img src=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif width="25"/>
