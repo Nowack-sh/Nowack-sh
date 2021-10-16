@@ -10,4 +10,4 @@
 + 👨‍🎓 Learning Javascript and Bash
 
 # 🛠️ Languages:
-![HTML5](https://img.icons8.com/color/30/html-5.png) ![CSS3](https://img.icons8.com/color/30/css3.png) ![JavaScript](https://img.icons8.com/color/30/javascript.png) ![Bash](https://icons8.com/icon/50ZQHdJTmPqw/bash) ![Python](https://img.icons8.com/color/30/python.png)
+![HTML5](https://img.icons8.com/color/30/html-5.png) ![CSS3](https://img.icons8.com/color/30/css3.png) ![JavaScript](https://img.icons8.com/color/30/javascript.png) ![Bash](https://img.icons8.com/plasticine/25/000000/bash.png) ![Python](https://img.icons8.com/color/30/python.png)
