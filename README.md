@@ -15,8 +15,9 @@
 <h1>
     Socials:
 </h1>
-<a href="https://www.instagram.com/_nxwack_/" target="_BLANK"><button type="button">My instagram.</button> </br>
-<a href="https://discord.gg/candyisland" target="_BLANK"><button type="button">My discord server.</button>
+<a href="https://www.instagram.com/_nxwack_/" target="_BLANK"><button type="button">My instagram.</button></a> </br>
+<a href="panel.html" target="_BLANK"><button class="button button1" name="Panel." type="button">Panel !</button></a>
+<a href="https://discord.gg/candyisland" target="_BLANK"><button type="button">My discord server.</button></a>
     
 <img src="https://img.icons8.com/plasticine/30/000000/instagram-new--v2.png" align="left">_nxwack_
 
