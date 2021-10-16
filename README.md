@@ -1,3 +1,5 @@
+<img src="https://cdn.discordapp.com/attachments/820752455578550303/898906711535022160/png-transparent-man-using-computer-web-development-mobile-app-development-software-developer-web-dev.png">
+
 <h1>
     Hello there, Im Nowack <img src=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif width="25"/>
 </h1>
