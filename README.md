@@ -15,7 +15,9 @@
 <h1>
     Socials:
 </h1>
+<p align="center">
 <a href="https://discord.gg/candyisland" target="_BLANK"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://instagram.com/_nxwack_"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://instagram.com/_nxwack_" target="_BLANK"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
 
 
