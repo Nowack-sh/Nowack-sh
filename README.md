@@ -1,4 +1,4 @@
-<img src="https://www.pikpng.com/pngl/m/329-3293365_developer-png-png-download-computer-engineering-cartoon-clipart.png">
+<img src="https://cdn.discordapp.com/attachments/820752455578550303/898907707388600360/329-3293365_developer-png-png-download-computer-engineering-cartoon-clipart.png">
 <h1>
     Hello there, Im Nowack <img src=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif width="25"/>
 </h1>
