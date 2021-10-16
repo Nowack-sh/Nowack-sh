@@ -15,6 +15,6 @@
 <h1>
     Socials:
 </h1>
-<img src="https://img.icons8.com/plasticine/25/000000/instagram-new--v2.png" align="left"> _nxwack_
+<img src="https://img.icons8.com/plasticine/25/000000/instagram-new--v2.png" align="left">_nxwack_
 
 
