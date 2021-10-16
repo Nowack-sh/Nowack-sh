@@ -7,6 +7,7 @@
   
 + 💪 Creator of Revoked Crow bot
 + 🤖 Selling discord bots with @ByNutiTropFlex
++ Learning Javascript and Bash
 
 # 🛠️ Languages:
-<img src="https://cdn.discordapp.com/attachments/820752455578550303/898866539225313300/1200px-CSS3_logo_and_wordmark.png" width="75" display="inline-block" alt="image1">
+![HTML5](https://img.icons8.com/color/30/html-5.png) ![CSS3](https://img.icons8.com/color/30/css3.png) ![JavaScript](https://img.icons8.com/color/30/javascript.png) ![NodeJS](https://img.icons8.com/color/30/nodejs.png) 
