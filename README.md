@@ -9,5 +9,5 @@
 + 🤖 Selling discord bots with @ByNutiTropFlex
 
 # 🛠️ Languages:
-<img src="https://cdn.discordapp.com/attachments/820752455578550303/898866232642637824/1024px-HTML5_logo_and_wordmark.png" width="75">
+![HTML5](https://cdn.discordapp.com/attachments/820752455578550303/898866232642637824/1024px-HTML5_logo_and_wordmark.png)
 <img src="https://cdn.discordapp.com/attachments/820752455578550303/898866539225313300/1200px-CSS3_logo_and_wordmark.png" width="75">
