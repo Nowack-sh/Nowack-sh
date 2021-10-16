@@ -7,7 +7,7 @@
   
 + 💪 Creator of Revoked Crow bot
 + 🤖 Selling discord bots with @ByNutiTropFlex
-+ Learning Javascript and Bash
++ 👨‍🎓 Learning Javascript and Bash
 
 # 🛠️ Languages:
-![HTML5](https://img.icons8.com/color/30/html-5.png) ![CSS3](https://img.icons8.com/color/30/css3.png) ![JavaScript](https://img.icons8.com/color/30/javascript.png) ![NodeJS](https://img.icons8.com/color/30/nodejs.png) ![Bash](https://img.icons8.com/color/30/bash.png)
+![HTML5](https://img.icons8.com/color/30/html-5.png) ![CSS3](https://img.icons8.com/color/30/css3.png) ![JavaScript](https://img.icons8.com/color/30/javascript.png) ![Bash](https://img.icons8.com/plasticine/100/000000/bash.png") ![Python](https://img.icons8.com/color/30/python.png)
