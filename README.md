@@ -17,7 +17,7 @@
     </h2>
 ![HTML5](https://img.icons8.com/color/30/html-5.png) ![CSS3](https://img.icons8.com/color/30/css3.png) ![JavaScript](https://img.icons8.com/color/30/javascript.png) ![Bash](https://img.icons8.com/plasticine/30/000000/bash.png) ![Python](https://img.icons8.com/color/30/python.png)
     <h2>
-        <img height="270px" src="https://cdn.discordapp.com/attachments/820752455578550303/901069571237216266/3252650.png">
+        <img src=https://cdn.discordapp.com/attachments/820752455578550303/901069571237216266/3252650.png width="25"/>
     </h2>
 <p align="center">
 <a href="https://discord.gg/candyisland" target="_BLANK"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
