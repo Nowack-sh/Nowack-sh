@@ -17,6 +17,7 @@
 </h2>
     
 ![HTML5](https://img.icons8.com/color/30/html-5.png) ![CSS3](https://img.icons8.com/color/30/css3.png) ![JavaScript](https://img.icons8.com/color/30/javascript.png) ![Bash](https://img.icons8.com/plasticine/30/000000/bash.png) ![Python](https://img.icons8.com/color/30/python.png)
+    [![Netlify Status](https://api.netlify.com/api/v1/badges/1ecdc405-2e3b-48b3-a6b4-4eda9261f250/deploy-status)](https://app.netlify.com/sites/agitated-aryabhata-1b6da0/deploys)
     <h2>
         👀 Socials:
     </h2>
