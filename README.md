@@ -9,7 +9,7 @@
 </h2>
   
 + ⚙️ Creator of <a href="https://discord.com/api/oauth2/authorize?client_id=870287430366945350&permissions=8&scope=bot%20applications.commands" target="_BLANK">Revoked Crow bot<a/>
-+ 🤖 Selling discord bots with @ByNutiTropFlex
++ 🤖 Selling bots with @ByNutiTropFlex
 + 👨‍🎓 Learning Javascript and Bash
 
 <h2>
