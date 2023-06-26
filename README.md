@@ -5,7 +5,7 @@
     Hello there, Im Nowack <img src=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif width="25"/>
 </h1>
 <h2>
-  16y/o developer.
+  18y/o developer.
 </h2>
   
 + ⚙️ Creator of <a href="https://discord.com/api/oauth2/authorize?client_id=870287430366945350&permissions=8&scope=bot%20applications.commands" target="_BLANK">Revoked Crow bot<a/>
