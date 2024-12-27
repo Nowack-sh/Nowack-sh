@@ -21,8 +21,8 @@
         👀 Socials:
     </h2>
 <p align="center">
-<a href="https://discord.gg/XNZXbhkK" target="_BLANK"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://instagram.com/mvnyll" target="_BLANK"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://discord.gg/XNZXbhkK" target="_BLANK"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_BLANK"></a>
+<a href="https://instagram.com/mvnyll" target="_BLANK"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_BLANK"></a>
 </p>
 
 
