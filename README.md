@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 <h1>
-    Hello there, Im Nowack <img src=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif width="25"/>
+    Hello there, Im Manyl. <img src=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif width="25"/>
 </h1>
 <h2>
   18y/o developer.
