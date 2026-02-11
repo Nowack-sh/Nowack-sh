@@ -4,7 +4,7 @@
     Hello there, Im Manyl. <img src=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif width="25"/>
 </h1>
 <h2>
-  18y/o developer.
+  20y/o developer.
 </h2>
   
 + ⚙️ Creator of <a href="https://discord.com/api/oauth2/authorize?client_id=870287430366945350&permissions=8&scope=bot%20applications.commands" target="_BLANK">Revoked Crow bot<a/>
@@ -20,7 +20,7 @@
         👀 Socials:
     </h2>
 <p align="center">
-<a href="https://discord.gg/Pu5mQyBaRK" target="_BLANK"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_BLANK"></a>
+<a href="https://discordapp.com/users/803686635387879524"" target="_BLANK"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_BLANK"></a>
 <a href="https://instagram.com/mvnyll" target="_BLANK"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_BLANK"></a>
 </p>
 
